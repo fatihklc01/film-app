@@ -1,0 +1,172 @@
+[
+    {
+        "id": "MOV-001",
+        "title": "Inception",
+        "description": "A thief who steals corporate secrets through dream-sharing technology.",
+        "releaseYear": 2010,
+        "isActive": true,
+        "releaseDate": "2010-07-16",
+        "imageUrl": "https://raw.githubusercontent.com/fatihklc01/film-app/main/img/Inception.jpg",
+        "genre": "Science Fiction",
+        "actors": [
+            "Leonardo DiCaprio",
+            "Elliot Page"
+        ],
+        "director": {
+            "id": "DIR-001"
+        }
+    },
+    {
+        "id": "MOV-002",
+        "title": "Barbie",
+        "description": "A doll in Barbieland begins to question her world and herself.",
+        "releaseYear": 2023,
+        "isActive": true,
+        "releaseDate": "2023-07-21",
+        "imageUrl": "https://raw.githubusercontent.com/fatihklc01/film-app/main/img/Barbie.jpg",
+        "genre": "Comedy/Drama",
+        "actors": [
+            "Margot Robbie",
+            "Ryan Gosling"
+        ],
+        "director": {
+            "id": "DIR-002"
+        }
+    },
+    {
+        "id": "MOV-003",
+        "title": "Pulp Fiction",
+        "description": "Stories of crime intertwine in Tarantino's masterpiece.",
+        "releaseYear": 1994,
+        "isActive": true,
+        "releaseDate": "1994-10-14",
+        "imageUrl": "https://raw.githubusercontent.com/fatihklc01/film-app/main/img/Pulp%20Fiction.jpg",
+        "genre": "Crime",
+        "actors": [
+            "John Travolta",
+            "Uma Thurman"
+        ],
+        "director": {
+            "id": "DIR-003"
+        }
+    },
+    {
+        "id": "MOV-004",
+        "title": "Parasite",
+        "description": "A poor family schemes to infiltrate a wealthy household.",
+        "releaseYear": 2019,
+        "isActive": true,
+        "releaseDate": "2019-05-30",
+        "imageUrl": "https://raw.githubusercontent.com/fatihklc01/film-app/main/img/Parasite.jpg",
+        "genre": "Thriller",
+        "actors": [
+            "Song Kang-ho",
+            "Choi Woo-shik"
+        ],
+        "director": {
+            "id": "DIR-004"
+        }
+    },
+    {
+        "id": "MOV-005",
+        "title": "The Grand Budapest Hotel",
+        "description": "A concierge is framed for murder and goes on the run.",
+        "releaseYear": 2014,
+        "isActive": true,
+        "releaseDate": "2014-03-28",
+        "imageUrl": "https://raw.githubusercontent.com/fatihklc01/film-app/main/img/The%20Grand%20Budapest%20Hote.jpg",
+        "genre": "Comedy",
+        "actors": [
+            "Ralph Fiennes",
+            "Tony Revolori"
+        ],
+        "director": {
+            "id": "DIR-005"
+        }
+    },
+    {
+        "id": "MOV-006",
+        "title": "The Shape of Water",
+        "description": "A mute woman bonds with an aquatic creature.",
+        "releaseYear": 2017,
+        "isActive": true,
+        "releaseDate": "2017-12-01",
+        "imageUrl": "https://raw.githubusercontent.com/fatihklc01/film-app/main/img/The%20Shape%20of%20Water.jpg",
+        "genre": "Fantasy",
+        "actors": [
+            "Sally Hawkins",
+            "Doug Jones"
+        ],
+        "director": {
+            "id": "DIR-006"
+        }
+    },
+    {
+        "id": "MOV-007",
+        "title": "Dune",
+        "description": "A noble family battles for control of a desert planet.",
+        "releaseYear": 2021,
+        "isActive": true,
+        "releaseDate": "2021-10-22",
+        "imageUrl": "https://raw.githubusercontent.com/fatihklc01/film-app/main/img/Dune.jpg",
+        "genre": "Science Fiction",
+        "actors": [
+            "Timothée Chalamet",
+            "Rebecca Ferguson"
+        ],
+        "director": {
+            "id": "DIR-007"
+        }
+    },
+    {
+        "id": "MOV-008",
+        "title": "Titanic",
+        "description": "A romance aboard the ill-fated Titanic.",
+        "releaseYear": 1997,
+        "isActive": false,
+        "releaseDate": "1997-12-19",
+        "imageUrl": "https://raw.githubusercontent.com/fatihklc01/film-app/main/img/Titanic.jpg",
+        "genre": "Drama/Romance",
+        "actors": [
+            "Leonardo DiCaprio",
+            "Kate Winslet"
+        ],
+        "director": {
+            "id": "DIR-008"
+        }
+    },
+    {
+        "id": "MOV-009",
+        "title": "The Irishman",
+        "description": "A mob hitman's tale of betrayal and guilt.",
+        "releaseYear": 2019,
+        "isActive": true,
+        "releaseDate": "2019-11-01",
+        "imageUrl": "https://raw.githubusercontent.com/fatihklc01/film-app/main/img/The%20Irishman.jpg",
+        "genre": "Crime/Drama",
+        "actors": [
+            "Robert De Niro",
+            "Al Pacino"
+        ],
+        "director": {
+            "id": "DIR-009"
+        }
+    },
+    {
+        "id": "MOV-010",
+        "title": "Jojo Rabbit",
+        "description": "A boy in Nazi Germany finds his world shaken.",
+        "releaseYear": 2019,
+        "isActive": true,
+        "releaseDate": "2019-10-18",
+        "imageUrl": "https://raw.githubusercontent.com/fatihklc01/film-app/main/img/Jojo%20Rabbit.jpg",
+        "genre": "Comedy/War",
+        "actors": [
+            "Roman Griffin Davis",
+            "Scarlett Johansson"
+        ],
+        "director": {
+            "id": "DIR-010"
+        }
+    }
+]

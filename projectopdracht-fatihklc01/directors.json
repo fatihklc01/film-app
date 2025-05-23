@@ -1,0 +1,82 @@
+[
+    {
+        "id": "DIR-001",
+        "name": "Christopher Nolan",
+        "birthYear": 1970,
+        "nationality": "British-American",
+        "isActive": true,
+        "imageUrl": "https://raw.githubusercontent.com/fatihklc01/film-app/main/img/Christopher%20Nolan.jpg"
+    },
+    {
+        "id": "DIR-002",
+        "name": "Greta Gerwig",
+        "birthYear": 1983,
+        "nationality": "American",
+        "isActive": true,
+        "imageUrl": "https://raw.githubusercontent.com/fatihklc01/film-app/main/img/Greta%20Gerwig.jpg"
+    },
+    {
+        "id": "DIR-003",
+        "name": "Quentin Tarantino",
+        "birthYear": 1963,
+        "nationality": "American",
+        "isActive": true,
+        "imageUrl": "https://raw.githubusercontent.com/fatihklc01/film-app/main/img/Quentin%20Tarantino.jpg"
+    },
+    {
+        "id": "DIR-004",
+        "name": "Bong Joon-ho",
+        "birthYear": 1969,
+        "nationality": "South Korean",
+        "isActive": true,
+        "imageUrl": "https://raw.githubusercontent.com/fatihklc01/film-app/main/img/Bong%20Joon-ho.jpg"
+    },
+    {
+        "id": "DIR-005",
+        "name": "Wes Anderson",
+        "birthYear": 1969,
+        "nationality": "American",
+        "isActive": true,
+        "imageUrl": "https://raw.githubusercontent.com/fatihklc01/film-app/main/img/Wes%20Anderson.jpg"
+    },
+    {
+        "id": "DIR-006",
+        "name": "Guillermo del Toro",
+        "birthYear": 1964,
+        "nationality": "Mexican",
+        "isActive": true,
+        "imageUrl": "https://raw.githubusercontent.com/fatihklc01/film-app/main/img/Guillermo%20del%20Toro.jpg"
+    },
+    {
+        "id": "DIR-007",
+        "name": "Denis Villeneuve",
+        "birthYear": 1967,
+        "nationality": "Canadian",
+        "isActive": true,
+        "imageUrl": "https://raw.githubusercontent.com/fatihklc01/film-app/main/img/Denis%20Villeneuve.jpg"
+    },
+    {
+        "id": "DIR-008",
+        "name": "James Cameron",
+        "birthYear": 1954,
+        "nationality": "Canadian",
+        "isActive": true,
+        "imageUrl": "https://raw.githubusercontent.com/fatihklc01/film-app/main/img/James%20Cameron.jpg"
+    },
+    {
+        "id": "DIR-009",
+        "name": "Martin Scorsese",
+        "birthYear": 1942,
+        "nationality": "American",
+        "isActive": true,
+        "imageUrl": "https://raw.githubusercontent.com/fatihklc01/film-app/main/img/Martin%20Scorsese.jpg"
+    },
+    {
+        "id": "DIR-010",
+        "name": "Taika Waititi",
+        "birthYear": 1975,
+        "nationality": "New Zealander",
+        "isActive": true,
+        "imageUrl": "https://raw.githubusercontent.com/fatihklc01/film-app/main/img/Taika%20Waititi.jpg"
+    }
+]
